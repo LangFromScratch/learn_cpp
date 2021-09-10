@@ -9,6 +9,7 @@ protected:
 public:
     virtual void action() {
         std::cout << "親クラスのaction関数\n";
+
     }
 };
 
